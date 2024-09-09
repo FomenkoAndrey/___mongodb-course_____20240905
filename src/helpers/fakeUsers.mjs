@@ -1,7 +1,7 @@
 import { faker } from '@faker-js/faker'
 import { getRandomSkills } from './skillsData.mjs'
 
-export const users = Array.from({ length: 1000 }, () => {
+export const users = Array.from({ length: 10000 }, () => {
   const shouldHaveOrders = Math.random() < 0.33
 
   const user = {
