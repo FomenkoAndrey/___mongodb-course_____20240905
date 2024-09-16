@@ -8,5 +8,5 @@
 // import './src/ex.8.sort-limit-page/index1.mjs'
 // import './src/ex.9.aggregation/index1.mjs'
 // import './src/ex.10.indexes/index1.mjs'
-// ! import './src/ex.11.geospatial-queries/index1.mjs'
-// import './src/ex.12.explain/index2.mjs'
+// import './src/ex.11.geospatial-queries/index1.mjs'
+// import './src/ex.12.explain/index1`.mjs'
